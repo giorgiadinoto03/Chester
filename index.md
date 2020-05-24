@@ -99,7 +99,7 @@ Bennington lasciò tuttavia in maniera amichevole il gruppo il 9 novembre 2015 a
 
 <h3 style="color:white;"> <li> <i> Membri dei Linkin Park </i> </li> </h3>
 
-<img src="https://lh3.googleusercontent.com/proxy/eWYMbYSRmHO_TZHKZLvEGUAHhKSrKtDd_iuMap4AiImQKYYyXmHyEYrai2xT89WByst1oPNh1aEnCsrSnxsiB7lF6B821pl_a8bIkBXwbTb6f3YDL4YDYDSf" alt="Linkin Park" style="width:600px; height:300px;float: right;">
+<img src="https://lh3.googleusercontent.com/proxy/eWYMbYSRmHO_TZHKZLvEGUAHhKSrKtDd_iuMap4AiImQKYYyXmHyEYrai2xT89WByst1oPNh1aEnCsrSnxsiB7lF6B821pl_a8bIkBXwbTb6f3YDL4YDYDSf" alt="Linkin Park" style="width:600px; height:300px; float: right;">
 
 <li> Chester Bennigton </li>
 <li> Mike Shinoda </li>
