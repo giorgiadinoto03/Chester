@@ -36,8 +36,12 @@ h3 {
   text-shadow: 2px 2px 3px blue;  
 }
 
-tr {
-  text-shadow: 2px 2px 3px blue;  
+tr { 
+text-shadow: 2px 2px 3px blue; 
+} 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
     </style>
     
@@ -50,7 +54,7 @@ tr {
 conosciuto principalmente per essere stato il frontman del gruppo musicale <a href="https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q" target="_blank">Linkin Park</a>. tra il 2013 e il 2015,
 <br> anche degli <u>Stone Temple Pilots</u>, oltre che del progetto parallelo <u>Dead by Sunrise</u>.</p>
 
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/styles/photo_slider_753x543/public/images/photogallery/201707/thumb_072117112113.jpg?Sio.fBXLEkB7agWQ5QxqAPA9O_BZgl6Z"alt="Chester Bennington" style="width:400px; height:500px;float: right;">
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/styles/photo_slider_753x543/public/images/photogallery/201707/thumb_072117112113.jpg?Sio.fBXLEkB7agWQ5QxqAPA9O_BZgl6Z" alt="Chester Bennington" style="width:400px; height:500px;float: right;">
 
 <ul style="color:white;">
 <br>
@@ -74,7 +78,7 @@ Il 12 maggio 1996 diventò padre di Jaime, avuto da una relazione giovanile con 
 
 <p style="color:white;">Nel 1993, ispirato dai suoi gruppi preferiti <u>Depeche Mode e Stone Temple Pilots</u> e spinto dal suo sogno di diventare un cantante, Bennington (che aveva già cominciato a suonare il pianoforte nella prima adolescenza) avviò una propria carriera musicale come cantante dei <u>Sean Dowdell and His Friends?</u>, incidendo l'omonimo demo in quell'anno. Lasciato il gruppo, entrò nei <u>Grey Daze</u>, con i quali ottenne discreta popolarità solo in Arizona e pubblicò gli album <u>Wake Me</u> (1994) e <u>...No Sun Today</u> (1996). Nel 1998 Bennington abbandonò il gruppo. </p>
 
-<img src="https://officialpsds.com/imageview/r4/14/r414pk_large.png?1521316525" alt="Linkin Park" style="width:500px; height:250px;float: right;">
+<img src="https://officialpsds.com/imageview/r4/14/r414pk_large.png?1521316525"alt="Linkin Park" style="width:500px; height:250px;float: right;">
 
 <h3 style="color:white;"> <li> <i> Linkin Park </i> </li> </h3>
 
@@ -97,7 +101,7 @@ Bennington lasciò tuttavia in maniera amichevole il gruppo il 9 novembre 2015 a
 
 <h3 style="color:white;"> <li> <i> Membri dei Linkin Park </i> </li> </h3>
 
-<img src="https://lh3.googleusercontent.com/proxy/eWYMbYSRmHO_TZHKZLvEGUAHhKSrKtDd_iuMap4AiImQKYYyXmHyEYrai2xT89WByst1oPNh1aEnCsrSnxsiB7lF6B821pl_a8bIkBXwbTb6f3YDL4YDYDSf" alt="Linkin Park" style="width:600px; height:300px; float: right;">
+<img src="https://lh3.googleusercontent.com/proxy/eWYMbYSRmHO_TZHKZLvEGUAHhKSrKtDd_iuMap4AiImQKYYyXmHyEYrai2xT89WByst1oPNh1aEnCsrSnxsiB7lF6B821pl_a8bIkBXwbTb6f3YDL4YDYDSf"alt="Linkin Park" style="width:600px; height:300px;float: right;">
 
 <li> Chester Bennigton </li>
 <li> Mike Shinoda </li>
@@ -121,13 +125,6 @@ Bennington lasciò tuttavia in maniera amichevole il gruppo il 9 novembre 2015 a
 </ol>
 
 <h3> <li> <i> Album e canzoni dei Linkin Park </i> </li> </h3>
-  
-  <style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
   
   <table style="width:100%">
   <tr style="color:white;font-size:125%;">
