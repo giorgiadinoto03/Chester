@@ -270,5 +270,6 @@ Il 5 dicembre 2017, la rivista Billboard ha scritto che il rapporto tossicologic
   <img src="https://www.rollingstone.it/wp-content/uploads/2017/08/chesterlight.jpg" alt="Chester Bennington" style="width:600px; height:400px;">
 </center>
 
+</ol>
 </body>
 </html>
