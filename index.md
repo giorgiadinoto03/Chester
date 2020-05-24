@@ -7,11 +7,11 @@
 
 /* Portare la pagina alle dimensioni: 930x514 */
 
-    body {
-      background-image: url('https://i.imgur.com/WXwtHpI.jpg');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
+ body{
+     background-image: url('https://i.imgur.com/WXwtHpI.jpg');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
     }
     
 
@@ -89,7 +89,7 @@ Dopo aver cambiato nome in <u>Linkin Park</u>, il 24 ottobre 2000 pubblicarono l
 
 <h3 style="color:white;"> <li> <i> Progetti secondari: Dead by Sunrise e Stone Temple Pilots </i> </li> </h3>
 
-<img src="https://lh3.googleusercontent.com/proxy/OjTRldZwZmNp6uB5APRpvuvGrNabTIlQa2IwvAeY90DRocIzxGm-QYwX2CPPccIclXK0s6TMU19llQHgPhQsMR3TsYFTUZhZx5vSgh6SA7gTiCpvfjC6zw" alt="Dead by Sunrise" style="width:300px; height:250px;float: right;">
+<img src="dbs.png" alt="Dead by Sunrise" style="width:300px; height:250px;float: right;">
 
 <p style="color:white;">Nel 2005 Bennington formò un progetto solista insieme a Ryan Shuck e Amir Derakh degli Orgy e dei Julien-K, chiamandolo inizialmente Snow White Tan (in riferimento a una parte del brano di David Bowie Ziggy Stardust) e successivamente cambiato in <u>Dead by Sunrise</u>. Il loro album d'esordio, intitolato <u>Out of Ashes</u>, era originariamente previsto per il 2007 ma a causa degli impegni di Bennington con i Linkin Park per la pubblicazione del terzo album in studio <u>Minutes to Midnight</u> e del relativo tour promozionale, la sua pubblicazione avvenne soltanto il 13 ottobre 2009.
 <br>
@@ -270,6 +270,5 @@ Il 5 dicembre 2017, la rivista Billboard ha scritto che il rapporto tossicologic
   <img src="https://www.rollingstone.it/wp-content/uploads/2017/08/chesterlight.jpg" alt="Chester Bennington" style="width:600px; height:400px;">
 </center>
 
-</ol> 
 </body>
 </html>
