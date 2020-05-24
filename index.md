@@ -50,7 +50,7 @@ tr {
 conosciuto principalmente per essere stato il frontman del gruppo musicale <a href="https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q" target="_blank">Linkin Park</a>. tra il 2013 e il 2015,
 <br> anche degli <u>Stone Temple Pilots</u>, oltre che del progetto parallelo <u>Dead by Sunrise</u>.</p>
 
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/styles/photo_slider_753x543/public/images/photogallery/201707/thumb_072117112113.jpg?Sio.fBXLEkB7agWQ5QxqAPA9O_BZgl6Z" alt="Chester Bennington" style="width:400px; height:500px;float: right;">
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/styles/photo_slider_753x543/public/images/photogallery/201707/thumb_072117112113.jpg?Sio.fBXLEkB7agWQ5QxqAPA9O_BZgl6Z"alt="Chester Bennington" style="width:400px; height:500px;float: right;">
 
 <ul style="color:white;">
 <br>
