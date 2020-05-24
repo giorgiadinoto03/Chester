@@ -45,7 +45,7 @@ table, th, td {
 }
     </style>
     
-
+<body>
 <h1 style="color:white;font-size:300%;">Chester Bennington</h1>
 <h2 style="color:white;"> Front-man dei Linkin Park </h2>
 
@@ -61,7 +61,7 @@ conosciuto principalmente per essere stato il frontman del gruppo musicale <a hr
 
   <h3 style="color:white;"> <li> <i> Storia </i> </li> </h3> 
  
-<body>
+
 
 <p style="color:white;">Di origini inglesi, olandesi e gallesi, Bennington era figlio di un poliziotto e di un'infermiera e trascorse i suoi primi vent'anni in Arizona. I suoi genitori divorziarono nel 1987, lasciandolo insieme ad un fratello e due sorelle. Dopo aver scelto di stare con il padre, fu incoraggiato dal fratello maggiore ad ascoltare gruppi come Foreigner, Loverboy e Rush, che citò tutti come propri ispiratori. A due anni imparò dal fratello a cantare un brano, Hot Blooded dei Foreigner.
 <br>
