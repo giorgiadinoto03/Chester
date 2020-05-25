@@ -7,11 +7,11 @@
 
 /* Portare la pagina alle dimensioni: 930x514 */
 
- body{
-     background-image: url('https://i.imgur.com/WXwtHpI.jpg');
-     background-repeat: no-repeat;
-     background-attachment: fixed;
-     background-size: cover;
+    body {
+      background-image: url('https://i.imgur.com/WXwtHpI.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
     }
     
 
@@ -36,16 +36,12 @@ h3 {
   text-shadow: 2px 2px 3px blue;  
 }
 
-tr { 
-text-shadow: 2px 2px 3px blue; 
-} 
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
+tr {
+  text-shadow: 2px 2px 3px blue;  
 }
     </style>
     
-<body>
+
 <h1 style="color:white;font-size:300%;">Chester Bennington</h1>
 <h2 style="color:white;"> Front-man dei Linkin Park </h2>
 
@@ -59,8 +55,10 @@ conosciuto principalmente per essere stato il frontman del gruppo musicale <a hr
 <ul style="color:white;">
 <br>
 
-<h3 style="color:white;"> <li> <i> Storia </i> </li> </h3> 
+  <h3 style="color:white;"> <li> <i> Storia </i> </li> </h3> 
  
+<body>
+
 <p style="color:white;">Di origini inglesi, olandesi e gallesi, Bennington era figlio di un poliziotto e di un'infermiera e trascorse i suoi primi vent'anni in Arizona. I suoi genitori divorziarono nel 1987, lasciandolo insieme ad un fratello e due sorelle. Dopo aver scelto di stare con il padre, fu incoraggiato dal fratello maggiore ad ascoltare gruppi come Foreigner, Loverboy e Rush, che citò tutti come propri ispiratori. A due anni imparò dal fratello a cantare un brano, Hot Blooded dei Foreigner.
 <br>
 <br>
@@ -76,20 +74,20 @@ Il 12 maggio 1996 diventò padre di Jaime, avuto da una relazione giovanile con 
 
 <p style="color:white;">Nel 1993, ispirato dai suoi gruppi preferiti <u>Depeche Mode e Stone Temple Pilots</u> e spinto dal suo sogno di diventare un cantante, Bennington (che aveva già cominciato a suonare il pianoforte nella prima adolescenza) avviò una propria carriera musicale come cantante dei <u>Sean Dowdell and His Friends?</u>, incidendo l'omonimo demo in quell'anno. Lasciato il gruppo, entrò nei <u>Grey Daze</u>, con i quali ottenne discreta popolarità solo in Arizona e pubblicò gli album <u>Wake Me</u> (1994) e <u>...No Sun Today</u> (1996). Nel 1998 Bennington abbandonò il gruppo. </p>
 
-<img src="https://officialpsds.com/imageview/r4/14/r414pk_large.png?1521316525" alt="Linkin Park" style="width:500px; height:250px;float: right;">
+<img src="https://officialpsds.com/imageview/r4/14/r414pk_large.png?1521316525"alt="Linkin Park" style="width:500px; height:250px;float: right;">
 
 <h3 style="color:white;"> <li> <i> Linkin Park </i> </li> </h3>
 
 
 <p style="color:white;">Nel 1998, a causa dell'abbandono di Mark Wakefield, gli <u>Xero</u> avviarono insieme a Jeff Blue la ricerca di un cantante. Blue contattò proprio Bennington, che dopo tre giorni dalla chiamata, eseguì un provino al telefono. Bennington venne successivamente convinto a trasferirsi a <u>Los Angeles</u>, dove sarebbe stato definitivamente scelto dagli <u>Xero</u> dopo alcuni provini. Nel 1999 gli <u>Xero</u> cambiarono nome in <u>Hybrid Theory</u> e pubblicarono l<u>'EP omonimo</u> nello stesso anno. Fu grazie a questo disco e ad alcuni concerti che riuscirono a firmare un contratto con la <u>Warner Bros. Records</u> verso la fine dell'anno.
 <br>
-Dopo aver cambiato nome in <u>Linkin Park</u>, il 24 ottobre 2000 pubblicarono l'album d'esordio <u>Hybrid Theory</u>, che contò soprattutto sui singoli <a href="https://www.youtube.com/watch?v=4qlCC1GOwFw" target="_blank">One Step Closer</a> ,<a href="https://www.youtube.com/watch?v=Gd9OhYroLN0" target="_blank">Crawling</a> e <a href="https://www.youtube.com/watch?v=eVTXPUF4Oz4" target="_blank">In The End</a>. Hybrid Theory divenne il disco di maggior successo del genere nu metal, con più di 27 milioni di copie vendute in tutto il mondo. Con il gruppo pubblicò ulteriori sei album in studio, il cui ultimo, <a href="https://www.google.com/search?hl=it&q=linkin+park+one+more+light+brani&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2K0qvNMwzU0LlaolmJ1vp55YWZybrJ-YkleZaFefnpRcvYlXIyczLzsxTKEgsylbIz0tVyM0vSgUKpmeUKCQVJeZl7mBlBABGlONpXQAAAA&sa=X&ved=2ahUKEwjkmabHgLHpAhUQZMAKHUdxD_MQMTAdegQIEhAK&biw=1366&bih=614" alt="Linkin Park" target="_blank">One More Light</a>, uscì nel maggio 2017.
+Dopo aver cambiato nome in <u>Linkin Park</u>, il 24 ottobre 2000 pubblicarono l'album d'esordio <u>Hybrid Theory</u>, che contò soprattutto sui singoli <a href="https://www.youtube.com/watch?v=4qlCC1GOwFw" target="_blank">One Step Closer</a> ,<a href="https://www.youtube.com/watch?v=Gd9OhYroLN0" target="_blank">Crawling</a> e <a href="https://www.youtube.com/watch?v=eVTXPUF4Oz4" target="_blank">In The End</a>. Hybrid Theory divenne il disco di maggior successo del genere nu metal, con più di 27 milioni di copie vendute in tutto il mondo. Con il gruppo pubblicò ulteriori sei album in studio, il cui ultimo, <a href="https://www.google.com/search?hl=it&q=linkin+park+one+more+light+brani&stick=H4sIAAAAAAAAAONgFuLVT9c3NEw2K0qvNMwzU0LlaolmJ1vp55YWZybrJ-YkleZaFefnpRcvYlXIyczLzsxTKEgsylbIz0tVyM0vSgUKpmeUKCQVJeZl7mBlBABGlONpXQAAAA&sa=X&ved=2ahUKEwjkmabHgLHpAhUQZMAKHUdxD_MQMTAdegQIEhAK&biw=1366&bih=614" target="_blank">One More Light</a>, uscì nel maggio 2017.
 </p>
 
 
 <h3 style="color:white;"> <li> <i> Progetti secondari: Dead by Sunrise e Stone Temple Pilots </i> </li> </h3>
 
-<img src="dbs.png" alt="Dead by Sunrise" style="width:300px; height:250px;float: right;">
+<img src="https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/62/70/4e/62704e67-7c5e-b257-fa12-cafaabd16064/pr_source.png/300x300cc.jpg"alt="Dead by Sunrise" style="width:300px; height:250px;float: right;">
 
 <p style="color:white;">Nel 2005 Bennington formò un progetto solista insieme a Ryan Shuck e Amir Derakh degli Orgy e dei Julien-K, chiamandolo inizialmente Snow White Tan (in riferimento a una parte del brano di David Bowie Ziggy Stardust) e successivamente cambiato in <u>Dead by Sunrise</u>. Il loro album d'esordio, intitolato <u>Out of Ashes</u>, era originariamente previsto per il 2007 ma a causa degli impegni di Bennington con i Linkin Park per la pubblicazione del terzo album in studio <u>Minutes to Midnight</u> e del relativo tour promozionale, la sua pubblicazione avvenne soltanto il 13 ottobre 2009.
 <br>
@@ -99,7 +97,7 @@ Bennington lasciò tuttavia in maniera amichevole il gruppo il 9 novembre 2015 a
 
 <h3 style="color:white;"> <li> <i> Membri dei Linkin Park </i> </li> </h3>
 
-<img src="https://lh3.googleusercontent.com/proxy/eWYMbYSRmHO_TZHKZLvEGUAHhKSrKtDd_iuMap4AiImQKYYyXmHyEYrai2xT89WByst1oPNh1aEnCsrSnxsiB7lF6B821pl_a8bIkBXwbTb6f3YDL4YDYDSf" alt="Linkin Park" style="width:600px; height:300px; float: right;">
+<img src="https://lh3.googleusercontent.com/proxy/eWYMbYSRmHO_TZHKZLvEGUAHhKSrKtDd_iuMap4AiImQKYYyXmHyEYrai2xT89WByst1oPNh1aEnCsrSnxsiB7lF6B821pl_a8bIkBXwbTb6f3YDL4YDYDSf"alt="Linkin Park" style="width:600px; height:300px;float: right;">
 
 <li> Chester Bennigton </li>
 <li> Mike Shinoda </li>
@@ -123,6 +121,13 @@ Bennington lasciò tuttavia in maniera amichevole il gruppo il 9 novembre 2015 a
 </ol>
 
 <h3> <li> <i> Album e canzoni dei Linkin Park </i> </li> </h3>
+  
+  <style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
   
   <table style="width:100%">
   <tr style="color:white;font-size:125%;">
@@ -270,6 +275,6 @@ Il 5 dicembre 2017, la rivista Billboard ha scritto che il rapporto tossicologic
   <img src="https://www.rollingstone.it/wp-content/uploads/2017/08/chesterlight.jpg" alt="Chester Bennington" style="width:600px; height:400px;">
 </center>
 
-</ol>
+</ol> 
 </body>
 </html>
